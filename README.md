@@ -1,3 +1,8 @@
+# Technologies used
+- Ionic
+- Angular
+- Firebase
+
 # IonicBooking
 
 This project is the result of the course "Ionic 5 - Build iOS, Android & Web Apps with Ionic & Angular" By Maximilian Schwarzmüller. 
